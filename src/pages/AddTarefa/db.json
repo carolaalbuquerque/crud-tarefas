@@ -1,0 +1,17 @@
+"tarefas": [
+    {
+        "id": 1,
+        "titulo": "Lavar o carro",
+        "prioridade": "Alta"
+    },
+    {
+        "id": 2,
+        "titulo": "Passear com as cachorras, au au",
+        "prioridade": "Baixa"
+    }
+
+    {    "id": 3,
+        "titulo": "Passear com a esposa",
+        "prioridade": "Alta"
+    }    
+]
